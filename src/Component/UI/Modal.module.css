@@ -12,6 +12,8 @@
     top: 12vh;
     left: 5%;
     width: 90%;
+    max-height: 80vh;
+    overflow-y: auto; 
     background-color: white;
     padding: 1rem;
     border-radius: 14px;
